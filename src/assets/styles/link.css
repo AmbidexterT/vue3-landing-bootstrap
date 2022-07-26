@@ -10,11 +10,11 @@
 }
 
 /* Kukuri */
-.link--kukuri {
+.link-transfusion {
 	text-transform: uppercase;
 	overflow: hidden;
 }
-.link--kukuri::after {
+.link-transfusion::after {
 	content: '';
 	position: absolute;
 	height: 100%;
@@ -30,12 +30,12 @@
 	transition-timing-function: cubic-bezier(0.7,0,0.3,1);
 }
 
-.link--kukuri:hover::after {
+.link-transfusion:hover::after {
 	-webkit-transform: translate3d(100%,0,0);
 	transform: translate3d(100%,0,0);
 }
 
-.link--kukuri::before {
+.link-transfusion::before {
 	content: attr(data-letters);
 	position: absolute;
 	z-index: 2;
@@ -47,7 +47,7 @@
 	transition: width 0.4s 0.3s;
 }
 
-.link--kukuri:hover::before {
+.link-transfusion:hover::before {
 	width: 100%;
 }
 

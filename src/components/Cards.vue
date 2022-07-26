@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-md-4">
         <div class="card">
-          <img src="../assets/images/fiel.jpg" width="320" height="200" class="card-img-top" alt="..." />
+          <img src="../assets/images/sunset.jpg" width="320" height="200" class="card-img-top" alt="..." />
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">
@@ -16,7 +16,7 @@
       </div>
       <div class="col-md-4">
         <div class="card">
-          <img src="../assets/images/fiel.jpg" width="320" height="200" class="card-img-top" alt="..." />
+          <img src="../assets/images/palat.jpg" width="320" height="200" class="card-img-top" alt="..." />
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">
@@ -29,7 +29,7 @@
       </div>
       <div class="col-md-4">
         <div class="card">
-          <img src="../assets/images/fiel.jpg" width="320" height="200" class="card-img-top" alt="..." />
+          <img src="../assets/images/triple.png" width="320" height="200" class="card-img-top" alt="..." />
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">

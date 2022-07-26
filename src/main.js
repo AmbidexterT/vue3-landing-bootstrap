@@ -6,6 +6,8 @@ import { library } from "@fortawesome/fontawesome-svg-core";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
 
+import VueAgile from 'vue-agile'
+
 library.add(faGithub);
 
-createApp(App).component("font-awesome-icon", FontAwesomeIcon).mount('#app')
+createApp(App).use(VueAgile).component("font-awesome-icon", FontAwesomeIcon).mount('#app')

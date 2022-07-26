@@ -1,6 +1,5 @@
 <template>
   <NavBar/>
-  <Credit/>
   <Jumbotron/>
   <CTA/>
   <Cards/>
@@ -13,7 +12,6 @@ import Jumbotron from './components/Jumbotron.vue'
 import CTA from './components/CTA.vue'
 import Cards from './components/Cards.vue'
 import Footer from './components/Footer.vue'
-
 export default {
   name: 'App',
   components: {

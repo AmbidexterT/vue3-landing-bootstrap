@@ -2,7 +2,7 @@
   <div class="hello">
     <nav class="navbar navbar-dark bg-dark">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">Landing Page</a>
+        <a class="navbar-brand" style="font-family: Monospaced,serif" href="#">Kolʹskiy poluostrov</a>
         <form class="d-flex p-2 bd-highlight" role="search">
             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
             <button class="btn btn-outline-success" type="submit">Search</button>
@@ -16,7 +16,7 @@
               <span class="nav-link active" aria-current="page">Find more on:</span>
             </li>
             <li class="nav-item">
-              <a class="link link--kukuri gradient" target="_blank" href="https://github.com/AmbidexterT"><font-awesome-icon :icon="[ 'fab', 'github' ]" color="#FFF"  /> Github</a>
+              <a class="link link-transfusion gradient" target="_blank" href="https://github.com/AmbidexterT"><font-awesome-icon :icon="[ 'fab', 'github' ]" color="#FFF"  /> Github</a>
             </li>
           </ul>
 
@@ -34,5 +34,5 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-@import "../assets/styles/link.css"
+@import "../assets/styles/link.css";
 </style>
