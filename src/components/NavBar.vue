@@ -1,8 +1,9 @@
 <template>
+  <link href="//db.onlinewebfonts.com/c/6a11498dc9e53f4ea8a426b833ce33ee?family=Coco+Gothic" rel="stylesheet" type="text/css"/>
   <div class="hello">
     <nav class="navbar navbar-dark bg-dark">
       <div class="container-fluid">
-        <a class="navbar-brand" style="font-family: Comic Sans MS,serif;" href="#">Kolʹskiy poluostrov</a>
+        <a class="navbar-brand" style="font-family: Coco Gothic,sans-serif" href="#">Kolʹskiy poluostrov</a>
         <form class="d-flex p-2 bd-highlight" role="search">
             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
             <button class="btn btn-outline-success" type="submit">Search</button>

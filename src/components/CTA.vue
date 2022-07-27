@@ -25,7 +25,7 @@ export default {
   background: linear-gradient(153deg, rgba(51,86,126,1) 0%, rgba(200,217,122,1) 100%, rgba(32,62,35,1) 100%);
 }
 .text {
-  font-family: "Comic Sans MS",serif;
+  font-family: "Coco Gothic",sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
