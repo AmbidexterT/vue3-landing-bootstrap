@@ -3,6 +3,7 @@
   <Jumbotron/>
   <CTA/>
   <Cards/>
+  <Blue/>
   <Footer/>
 </template>
 
@@ -12,6 +13,7 @@ import Jumbotron from './components/Jumbotron.vue'
 import CTA from './components/CTA.vue'
 import Cards from './components/Cards.vue'
 import Footer from './components/Footer.vue'
+import Blue from './components/Blue.vue'
 export default {
   name: 'App',
   components: {
@@ -19,6 +21,7 @@ export default {
     Jumbotron,
     CTA,
     Cards,
+    Blue,
     Footer
   }
 }
@@ -26,7 +29,7 @@ export default {
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: "KTF",monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;

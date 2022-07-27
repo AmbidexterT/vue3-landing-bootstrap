@@ -2,7 +2,7 @@
   <div class="hello">
     <nav class="navbar navbar-dark bg-dark">
       <div class="container-fluid">
-        <a class="navbar-brand" style="font-family: Monospaced,serif" href="#">Kolʹskiy poluostrov</a>
+        <a class="navbar-brand" style="font-family: Comic Sans MS,serif;" href="#">Kolʹskiy poluostrov</a>
         <form class="d-flex p-2 bd-highlight" role="search">
             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
             <button class="btn btn-outline-success" type="submit">Search</button>
