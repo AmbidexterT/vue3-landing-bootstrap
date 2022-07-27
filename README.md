@@ -1,24 +1,15 @@
 # vue3-landing-bootstrap
 
-## Project setup
-```
-npm install
-```
+![ScreenRecorderProject2 (1)](https://user-images.githubusercontent.com/55133073/181285766-55521161-e6da-4db8-a978-5363aa7fec5c.gif)
 
-### Compiles and hot-reloads for development
+### How to Load the App
 ```
+git clone https://github.com/AmbidexterT/vue3-landing-bootstrap.git
+npm install
 npm run serve
 ```
+## About
+Vue landing project about Kol'skiy with using Bootstrap5 and vue-slider.
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
